@@ -2,10 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0000AA&height=180&section=header&text=cazzuloa.sh&fontSize=42&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Booting%20Divine%20Intellect...&descAlignY=58&descSize=18&descColor=00FFFF" width="100%"/>
 
 ```
-                                        ┌──────────────────────────────────────────────────────┐
-                                        │  HolyC Terminal v0.1 - TempleOS-inspired shell       │
-                                        │  > SELECT * FROM brain WHERE topic = "cybersecurity";│
-                                        └──────────────────────────────────────────────────────┘
+                                  ┌──────────────────────────────────────────────────────┐
+                                  │  HolyC Terminal v0.1 - TempleOS-inspired shell       │
+                                  │  > SELECT * FROM brain WHERE topic = "cybersecurity";│
+                                  └──────────────────────────────────────────────────────┘
 ```
 
 ## `>> whoami`
