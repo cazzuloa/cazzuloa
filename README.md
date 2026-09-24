@@ -1,13 +1,5 @@
-<div align="center">
-
 <!-- Bandeau façon boot screen TempleOS -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0000AA&height=180&section=header&text=cazzuloa.sh&fontSize=42&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Booting%20Divine%20Intellect...&descAlignY=58&descSize=18&descColor=00FFFF" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Consolas&size=22&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=whoami;etudiant+BUT+Info+%7C+1ere+annee;forensic+%2B+RE+enjoyer;compiling+redstone+circuits...;404+social+links+not+found+(yet)" />
-
-</div>
-
-<br>
 
 ```
                                         ┌──────────────────────────────────────────────────────┐
@@ -18,11 +10,11 @@
 
 ## `>> whoami`
 
-Étudiant en **1ère année de BUT Informatique**, actuellement occupé à transformer du café énergisant en lignes de code et en tentatives (parfois désespérées même souvent désespérées) de comprendre pourquoi un binaire fait ce qu'il fait.
+Étudiant en **1ère année de BUT Informatique**, actuellement occupé à transformer du café énergisant en lignes de code et en tentatives (parfois désespérées, même très souvent désespérées) de comprendre pourquoi un binaire fait ce qu'il fait.
 
 - 🤓 LINUX LINUX LINUX
-- 🔍 Fasciné par le **forensic** et le **reverse engineering** - décortiquer un fichier comme d'autres décortiquent un poulet du dimanche
-- 🕹️ Amateur de **Minecraft redstone** et **Shapez** - parce que rien ne prépare mieux à l'architecture logicielle que d'optimiser une chaîne de production de cubes
+- 🔍 Fasciné par le Forensic et le Reverse Engineering
+- 🕹️ Amateur de Minecraft redstone et Shapez
 - 🚩 Fan de **CTF**, en mode "je comprends 10% du challenge mais je le finis quand même à 3h du matin"
 - ⚡ Croyance ferme que **Terry A. Davis** était un génie incompris et que TempleOS mérite plus de respect qu'il n'en reçoit
 
@@ -42,7 +34,9 @@
 
 ## `>> stack_actuelle`
 
-Pas encore de stack figée - je suis en phase **exploration active**, façon "je teste tout ce qui passe à portée de terminal".
+Pas encore de stack figée. Je touche à tous 🤓
+
+**Langages & environnement**
 
 <div align="center">
 
@@ -50,7 +44,18 @@ Pas encore de stack figée - je suis en phase **exploration active**, façon "je
 ![C](https://img.shields.io/badge/C-0000AA?style=for-the-badge&logo=c&logoColor=FFD700)
 ![Linux](https://img.shields.io/badge/Linux-0000AA?style=for-the-badge&logo=linux&logoColor=FFD700)
 ![Bash](https://img.shields.io/badge/Bash-0000AA?style=for-the-badge&logo=gnubash&logoColor=FFD700)
+![HolyC](https://img.shields.io/badge/HolyC%20(RIP)-0000AA?style=for-the-badge&logoColor=FFD700)
+
+</div>
+
+**Cybersécurité**
+
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0000AA?style=for-the-badge&logo=kalilinux&logoColor=FFD700)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0000AA?style=for-the-badge&logo=wireshark&logoColor=FFD700)
+![Ghidra](https://img.shields.io/badge/Ghidra-0000AA?style=for-the-badge&logoColor=FFD700)
+![Root-Me](https://img.shields.io/badge/Root--Me-0000AA?style=for-the-badge&logoColor=FFD700)
 
 </div>
 
@@ -70,7 +75,7 @@ Pas encore de stack figée - je suis en phase **exploration active**, façon "je
 
 ## `>> divine_intellect_corner`
 
-> Quelque part, sur un serveur qui tourne encore sous TempleOS, Terry Davis continue de parler à Dieu en 640x480, 16 couleurs, et je trouve ça plus inspirant que 90% des conférences tech.
+> Un hommage à Terry A. Davis — développeur solo de TempleOS, génie autodidacte que le monde de la tech a mis trop longtemps à respecter.
 
 <br>
 
